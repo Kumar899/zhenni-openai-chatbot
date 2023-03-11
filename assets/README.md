@@ -67,14 +67,34 @@ This page will show you how to deploy the bot in 13 simple steps.
 ### 7. Set webhook.
 >   * Go back to the editor page > search code `const APP_URL = "<YOUR_APP_URL>";`.
 >   * Change the `<YOUR_APP_URL>` with the url you've copied in the previous step.
->   <p align="center"><img src="/assets/start-12.png"><i>Run setWebhook()</i></p>
-  </br>
-> * Run the `setWebhook();` function.
+>   <p align="center"><img src="/assets/start-12.png"><i>Run setWebhook();.</i></p>
+>   
+  
+
 <p align="center"><img src="/assets/start-13.png"><i>Run setWebhook();.</i></p>
-> If you see that result, congratulations! Your bot is successful running now!
 
+---
 
+If you see those results, congratulations! Your bot is running successfully now! 🌈💕
 
+## 💜 Test the bot.
+> * You now can test your bot.
+> * If all steps are correct, your bot will reply all message sent by you.
+> * Go to your bot & click `Start`.
+> * Send your bot any message and see the result.
+<p align="center"><img src="/assets/start-14.jpg"></p>
+
+---
+
+- ♥️ Special thx to: [@botindonesia](https://t.me/botindonesia).
+- 🔧 This bot using [lumpia.js.org](https://lumpia.js.org/) library.
+- 🌈 Created by [@jnxnyanna](https://t.me/jnxnyanna).
+- ❗ It is forbidden to sell this bot code.
+- ✨ If you like, don't forget to give star to this repository.
+
+💭 Hope you all like it! Don't hesitate to ask me if the explanation I gave is confusing.
+
+>> Special thx ~ **Zhenni** 🖤
 
 
 
