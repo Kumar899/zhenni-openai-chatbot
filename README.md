@@ -1,7 +1,11 @@
 # 💬 Zhenni OpenAI Chatbot
 > Telegram chatbot to communicate with OpenAI deployed on Apps Script using lumpia library.
 
+---
 
+<p align="center"><img src="/assets/start-14.jpg"><a href="t.me/zhennigasbot">@zhennigasbot</a></p>
+
+---
 
 # ❓ Requirements:
 > * Bot token from [@botfather](t.me/botfather)
@@ -24,6 +28,6 @@
 ---
 
 - 📑 Full documentation: [lumpia.js.org](https://lumpia.js.org)
-- 🖼️ Tutorial with picture can be found here:
+- 🖼️ Tutorial with picture can be found here: [README](https://github.com/jnxnyanna/zhenni-openai-chatbot/blob/main/assets/README.md)
 - 💕 The result can be seen here: [@zhennigasbot](https://t.me/zhennigasbot)
 
