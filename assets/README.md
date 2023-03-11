@@ -57,7 +57,7 @@ This page will show you how to deploy the bot in 13 simple steps.
 > * Click on `Allow`.
 > <p align="center"><img src="/assets/start-10.jpg"><i>Click on "Allow".</i></p>
 
-### 6. Deplpyement complete.
+### 6. Deployement complete.
 > * On the next step you will see a new pop up message again.
 > There is contain about your new deployement app.
 > There is a `version`, `deploying date`, `deployement id` and the `url`.
