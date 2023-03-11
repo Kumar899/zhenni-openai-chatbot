@@ -64,7 +64,14 @@ This page will show you how to deploy the bot in 13 simple steps.
 > You only need the url. Copy the url by clicking on `Copy` & then click `Done`.
 <p align="center"><img src="/assets/start-11.png"><i>Copy the web app url.</i></p>
 
-
+### 7. Set webhook.
+>   * Go back to the editor page > search code `const APP_URL = "<YOUR_APP_URL>";`.
+>   * Change the `<YOUR_APP_URL>` with the url you've copied in the previous step.
+>   <p align="center"><img src="/assets/start-12.png"><i>Run setWebhook()</i></p>
+  </br>
+> * Run the `setWebhook();` function.
+<p align="center"><img src="/assets/start-13.jpg"><i>Run setWebhook();.</i></p>
+> If you see that result, congratulations! Your bot is successful running now!
 
 
 
