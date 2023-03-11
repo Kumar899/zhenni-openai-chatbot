@@ -42,8 +42,40 @@ This page will show you how to deploy the bot in 13 simple steps.
 >> * Who has access: `Anyone`.
 <p align="center"><img src="/assets/start-6.jpg"><i>Select deployment type.</i></p>
 
-
-
-
-
 ### 3. Authorize access.
+<p align="center"><img src="/assets/start-7.png"><i>Click "Authorize access".</i></p>
+
+### 4. Warning message.
+> * You will see a warning message.
+> * If you see that message, Click on `Advanced` > `Go to Untitled project (unsafe)`.
+<p align="center"><img src="/assets/start-8.jpg"><i>Click on "Advanced".</i></p>
+<p align="center"><img src="/assets/start-9.jpg"><i>"Go to Untitled project (unsafe)".</i></p>
+
+### 5. Allowing the project.
+> * On the next step you will see a new pop up message.
+> * "*Untitled project wants to access your Google Account*".
+> * Click on `Allow`.
+> <p align="center"><img src="/assets/start-10.jpg"><i>Click on "Allow".</i></p>
+
+### 6. Deplpyement complete.
+> * On the next step you will see a new pop up message again.
+> There is contain about your new deployement app.
+> There is a `version`, `deploying date`, `deployement id` and the `url`.
+> You only need the url. Copy the url by clicking on `Copy` & then click `Done`.
+<p align="center"><img src="/assets/start-11.png"><i>Copy the web app url.</i></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
