@@ -3,19 +3,19 @@
 
 ---
 
-<p align="center"><img src="/assets/start-14.jpg"><a href="t.me/zhennigasbot">@zhennigasbot</a></p>
+<p align="center"><img src="/assets/start-14.jpg">Bot: <a href="https://t.me/zhennigasbot">@zhennigasbot</a></p>
 
 ---
 
 # ❓ Requirements:
-> * Bot token from [@botfather](t.me/botfather)
-> * Api key from [platform.openai.com](platform.openai.com/account/api-keys)
+> * Bot token from [@botfather](https://t.me/botfather)
+> * Api key from [platform.openai.com](https://platform.openai.com/account/api-keys)
 > * Google account 
-> * New project on [Apps Script](script.google.com/)
+> * New project on [Apps Script](https://script.google.com/)
 
 # 📌 Short steps:
-> 1. Chat with [@botfather](t.me/botfather) & create new bot.
-> 2. Open [Apps Script](script.google.com) & create new project.
+> 1. Chat with [@botfather](https://t.me/botfather) & create new bot.
+> 2. Open [Apps Script](https://script.google.com) & create new project.
 > 3. Go to file `code.js`. Copy the code and paste on the editor.
 > 4. Go to `Settings` > scroll down > search for `Script Properties`.
 > 5. Add new properties. Name it with `BOT_TOKEN` & `API_KEY`.
