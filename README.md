@@ -19,7 +19,7 @@
 > 3. Go to file `code.js`. Copy the code and paste on the editor.
 > 4. Go to `Settings` > scroll down > search for `Script Properties`.
 > 5. Add new properties. Name it with `BOT_TOKEN` & `API_KEY`.
-> 6. Fill field `BOT_TOKEN` & `API_KEY` with your own.
+> 6. Fill in field `BOT_TOKEN` & `API_KEY` with your own.
 > 7. Deploy the apps and copy the url.
 > 8. Go to `const APP_URL = "";` & paste with your url.
 > 9. Last, run the `setWebhook();` function.
