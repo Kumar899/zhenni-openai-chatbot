@@ -92,7 +92,7 @@ If you see those results, congratulations! Your bot is running successfully now!
 - ❗ It is forbidden to sell this bot code.
 - ✨ If you like, don't forget to give star to this repository.
 
-💭 Hope you all like it! Don't hesitate to ask me if the explanation I gave is confusing.
+
 
 >> Special thx ~ **Zhenni** 🖤
 
