@@ -17,13 +17,14 @@
 > 1. Chat with [@botfather](https://t.me/botfather) & create new bot.
 > 2. Open [Apps Script](https://script.google.com) & create new project.
 > 3. Go to file `code.js`. Copy the code and paste on the editor.
-> 4. Go to `Settings` > scroll down > search for `Script Properties`.
-> 5. Add new properties. Name it with `BOT_TOKEN` & `API_KEY`.
-> 6. Fill in field `BOT_TOKEN` & `API_KEY` with your own.
-> 7. Deploy the apps and copy the url.
-> 8. Go to `const APP_URL = "";` & paste with your url.
-> 9. Last, run the `setWebhook();` function.
-> 10. Congratulations! Your bot is running now.
+> 5. Add library id: `1Yo6vQRwjG5Gl9jeEF0g2tBTUa0XN5MyT4G_HeDpRr9DvabxhRcSdhPNj`.
+> 5. Go to `Settings` > scroll down > search for `Script Properties`.
+> 6. Add new properties. Name it with `BOT_TOKEN` & `API_KEY`.
+> 7. Fill in field `BOT_TOKEN` & `API_KEY` with your own.
+> 8. Deploy the apps and copy the url.
+> 9. Go to `const APP_URL = "";` & paste with your url.
+> 10. Last, run the `setWebhook();` function.
+> 11. Congratulations! Your bot is running now.
 
 ---
 
