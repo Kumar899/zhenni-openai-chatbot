@@ -70,7 +70,7 @@ This page will show you how to deploy the bot in 13 simple steps.
 >   <p align="center"><img src="/assets/start-12.png"><i>Run setWebhook()</i></p>
   </br>
 > * Run the `setWebhook();` function.
-<p align="center"><img src="/assets/start-13.jpg"><i>Run setWebhook();.</i></p>
+<p align="center"><img src="/assets/start-13.png"><i>Run setWebhook();.</i></p>
 > If you see that result, congratulations! Your bot is successful running now!
 
 
